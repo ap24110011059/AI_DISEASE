@@ -11,6 +11,6 @@ print(df.shape)
 print("\nData Types:")
 print(df.dtypes)
 
-# Print statistical summary
+# Print summary statistics
 print("\nSummary Statistics:")
 print(df.describe())
