@@ -1,0 +1,7 @@
+{
+    "dropout": 0.3,
+    "optimizer": "Adam",
+    "epochs": 50,
+    "best_batch_size": 32,
+    "best_accuracy": 0.7337662337662337
+}
