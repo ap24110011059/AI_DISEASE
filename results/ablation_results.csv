@@ -1,0 +1,4 @@
+Configuration,Precision,Recall,F1 Score
+Static MLP,0.61,0.56,0.58
+Adaptive MLP,0.66,0.63,0.64
+Adaptive + Proactive,0.7,0.68,0.69
