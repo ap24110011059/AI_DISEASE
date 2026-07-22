@@ -1,6 +1,5 @@
 import pandas as pd
 
-# Example False Negatives
 
 false_negatives = pd.DataFrame({
 
